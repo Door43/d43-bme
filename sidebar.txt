@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bme:home|Door43 (bme)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bme|d43-bme repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bme/archive/master.zip|d43-bme.zip]]
+
+**Recent Changes**
+{{changes>ns = bme}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bme|Ethnologue data]]
+
